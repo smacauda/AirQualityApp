@@ -1,0 +1,8 @@
+dash
+pandas
+plotly
+streamlit
+pyrebase
+matplotlib
+pystan==2.19.1.1
+fbprophet
