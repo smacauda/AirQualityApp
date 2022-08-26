@@ -16,3 +16,12 @@ The data was taken from the EPA's [Historical Air Quality](https://console.cloud
 
 Time series analysis was performed using Facebook Prophet. Monthly predictions for 12 months with average RMSE of <0.01. 
 
+### NYC
+
+![alt text](https://github.com/smacauda/AirQualityApp/blob/main/images/airquality_NYC.png "Ozone Prediction NYC")
+
+### LA
+
+
+
+### Chicago
