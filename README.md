@@ -22,6 +22,9 @@ Time series analysis was performed using Facebook Prophet. Monthly predictions f
 
 ### LA
 
+![alt text](https://github.com/smacauda/AirQualityApp/blob/main/images/airquality_LA.png "Ozone Prediction LA")
 
 
 ### Chicago
+
+![alt text](https://github.com/smacauda/AirQualityApp/blob/main/images/airquality_Chicago.png "Ozone Prediction Chicago")
