@@ -1,14 +1,14 @@
 # AirQualityApp
 
-## Data Collection
+## How to Use
 
-The data was taken from the EPA's [Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=category:climate&project=wide-ceiling-334016) dataset on BigQuery. 
+
+
+## Data Collection & Storage
+
+The data was taken from the EPA's [Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=category:climate&project=wide-ceiling-334016) dataset on BigQuery. Ozone (O<sub>3</sub>) levels from the top 3 most populous US cities (New York, Los Angeles, and Chicago) were collected using SQL and uploaded to a Firebase database. Docker container then uploaded to Google Cloud Container Registry with Streamlit app to visualize results. 
 
 ![alt text](https://github.com/smacauda/AirQualityApp/blob/main/images/Tree%20diagrams.jpeg "Tree diagram")
-
-## Firebase
-
-Data was collected from BigQuery and stored in a Firebase real-time database. 
 
 ## Analysis
 
