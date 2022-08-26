@@ -4,7 +4,7 @@
 
 Web app can be found here: [https://air-quality-app-xl4lmy5tzq-uc.a.run.app](https://air-quality-app-xl4lmy5tzq-uc.a.run.app).
 
-To reproduce, clone this repository and upload to [Google Container Registry](https://cloud.google.com/container-registry). Then create a job on Google Cloud Run to host web app. 
+To reproduce, clone this repository and upload AirQualityApp to [Google Container Registry](https://cloud.google.com/container-registry). Then create a job on Google Cloud Run to host web app. 
 
 ## Data Collection & Storage
 
